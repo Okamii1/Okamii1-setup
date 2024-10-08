@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/W3bb3r)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://xxtoxxicxx.itch.io)
 
-Eu sou Graduando no curso de Ciência da Computação no IFMA - Campus Imperatriz 📚 - Extremamente apaixonado pelo mundo dos games 🕹️ - Tenho objetivo de me profissionalizar na área de GamerDesigner/GameDev 🎮 
+Eu sou o Antônio - Extremamente apaixonado pelo mundo dos games 🕹️ - Tenho objetivo de me profissionalizar na área de GamerDesigner/GameDev 🎮 
 
 ### Linguagens que costumo trabalhar ! 💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
